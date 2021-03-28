@@ -3,13 +3,13 @@
     "title": "Chat Modifiers",
     "description": "Allows players to select chat prefixes instead of typing commands.",
     "version": "0.6.2",
-    "author": ["Jonny"],
+    "author": ["shinkei13"],
     "scripts": ["./chatmod.js"],
     "styles": ["./chatmod.css"],
     "packs": [],
     "url": "",
     "manifest": "",
-    "download": "",
+    "download": "https://github.com/shinkei13/foundryvtt-chatmod/archive/refs/tags/v0.6.2.zip",
     "minimumCoreVersion": "0.6.0",
     "compatibleCoreVersion": "0.7.9"
 }
