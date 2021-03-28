@@ -1,0 +1,15 @@
+{
+    "name": "chatmod",
+    "title": "Chat Modifiers",
+    "description": "Allows players to select chat prefixes instead of typing commands.",
+    "version": "0.6.2",
+    "author": ["Jonny"],
+    "scripts": ["./chatmod.js"],
+    "styles": ["./chatmod.css"],
+    "packs": [],
+    "url": "",
+    "manifest": "",
+    "download": "",
+    "minimumCoreVersion": "0.6.0",
+    "compatibleCoreVersion": "0.7.9"
+}
