@@ -9,7 +9,7 @@
     "packs": [],
     "url": "https://github.com/shinkei13/foundryvtt-chatmod",
     "manifest": "https://raw.githubusercontent.com/shinkei13/foundryvtt-chatmod/main/module.json",
-    "download": "https://github.com/shinkei13/foundryvtt-chatmod/archive/refs/tags/v0.6.2.zip",
+    "download": "https://github.com/shinkei13/foundryvtt-chatmod/archive/refs/tags/v0.6.3.zip",
     "minimumCoreVersion": "0.6.0",
     "compatibleCoreVersion": "9"
 }
