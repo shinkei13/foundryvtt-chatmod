@@ -85,8 +85,8 @@ class ChatMod {
 	
 	updateUserChat(html) {
         let actors = [];
-        if (canvas != null) {
-            for (let token of canvas.tokens.controlled) {
+        if ((canvas != null) && (canvas.tokens != undefined)) {
+            for (let token of canvas.tokens?.controlled) {
                 if (token.actor)
                     actors.push(token.actor)
             }
